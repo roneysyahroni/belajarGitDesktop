@@ -1,0 +1,4 @@
+# Mengabaikan folder tertentu
+node_modules/
+vendor/
+.env
